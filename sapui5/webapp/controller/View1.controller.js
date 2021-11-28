@@ -6,7 +6,7 @@ sap.ui.define([
 	 */
 	function (Controller) {
 		"use strict";
-
+        //Sarah Comment on change to the UI5 app
 		return Controller.extend("sap.btp.sapui5.controller.View1", {
 			onInit: function () {
 
